@@ -18,8 +18,15 @@ A Flutter package that provides a customizable calendar widget for your applicat
 This calendar allows users to select dates and navigate between months seamlessly, 
 while also being fully customizable in terms of appearance.
 
-![WhatsApp Image 2024-10-07 at 15 03 08](https://github.com/user-attachments/assets/8b724d1a-2e7c-41e4-b71f-74bed1dd67b9)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/049461b2-568e-44fe-87fe-5c6ad37c6390" alt="Calendar Widget Screenshot" height="250"/>
+</p>
 
+Below is a short screen recording demonstrating how the calendar widget I created works:
+
+https://github.com/user-attachments/assets/49c74eb9-59b7-4ddb-91ef-504aec1f93f7
+
+This widget allows users to easily view and manage their events.
 
 ## Features
 
@@ -27,6 +34,7 @@ while also being fully customizable in terms of appearance.
 - **Date selection**: Users can easily select a date by tapping on the desired day.
 - **Month navigation**: Navigate between months using intuitive back and forward buttons.
 - **Responsive design**: Adaptable to various screen sizes with a user-friendly layout.
+- **Multiple language support**: The calendar widget supports different languages, allowing users to select their preferred language for a better experience.
 
 ## Getting started
 
