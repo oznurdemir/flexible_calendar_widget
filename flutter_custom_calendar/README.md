@@ -14,9 +14,9 @@ and the Flutter guide for
 
 # flutter_custom_calendar
 
-A Flutter package that provides a customizable calendar widget for your applications. 
-This calendar allows users to select dates and navigate between months seamlessly, 
-while also being fully customizable in terms of appearance.
+A customizable calendar widget for Flutter applications that allows users to select dates and navigate between months seamlessly, 
+while providing full customization of appearance.
+
 
 ## Features
 
@@ -31,7 +31,7 @@ while also being fully customizable in terms of appearance.
 
    ```yaml
    dependencies:
-     flutter_custom_calendar: ^0.0.1
+     flutter_custom_calendar: ^1.0.0
    
 2. Install the package:
 
