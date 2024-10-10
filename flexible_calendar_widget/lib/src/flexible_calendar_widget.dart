@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import '../l10n/strings.dart';
 
-class FlutterCustomCalendar extends StatefulWidget {
+class FlexibleCalendarWidget extends StatefulWidget {
   DateTime selectedDate;
   final Color calenderBackgroundColor;
   final Color selectedDayColor;
@@ -25,7 +25,7 @@ class FlutterCustomCalendar extends StatefulWidget {
   final IconData nextMonthIcon;
   final Color iconColor;
 
-  FlutterCustomCalendar({
+  FlexibleCalendarWidget({
     Key? key,
     required this.selectedDate,
     this.calenderBackgroundColor = Colors.white,
@@ -56,7 +56,7 @@ class FlutterCustomCalendar extends StatefulWidget {
   _CustomCalendarState createState() => _CustomCalendarState();
 }
 
-class _CustomCalendarState extends State<FlutterCustomCalendar> {
+class _CustomCalendarState extends State<FlexibleCalendarWidget> {
   late DateTime _firstDayOfMonth;
   late DateTime _lastDayOfMonth;
 
